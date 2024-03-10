@@ -2,9 +2,6 @@
 - Id -> 8210444484
 - Password -> toostrong
 
-- Multi-Vendor Application
-Overview
-This multi-vendor application provides a platform for customers to browse and purchase products from multiple vendors. It also includes features for managing orders, deliveries, and administrative tasks.
 
 Features
 
