@@ -1,4 +1,4 @@
-Admin App Link - https://vendoradmin.vercel.app
+- Admin App Link - https://vendoradmin.vercel.app
                - Id -> 8210444484
                - Password -> toostrong
 Multi-Vendor Application
