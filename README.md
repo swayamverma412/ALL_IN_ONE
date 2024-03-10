@@ -1,3 +1,4 @@
+- Postman - https://documenter.getpostman.com/view/19864978/2s8YmHwjK9
 - Admin App Link - https://vendoradmin.vercel.app
 - Id -> 8210444484
 - Password -> toostrong
